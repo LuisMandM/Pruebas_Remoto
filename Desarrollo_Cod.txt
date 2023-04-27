@@ -1,0 +1,7 @@
+Primera Entrada:
+
+Primeras lineas de Codigo....
+
+Segunda Entrada:
+
+Nuevo Bloque de Codigo;
