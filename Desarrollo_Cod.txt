@@ -8,3 +8,5 @@ Nuevo Bloque de Codigo;
 
 Tercera Entrada:
 Actualizacion Bloque de Codigo Anterior;
+
+Entrada desde main (Maria)
